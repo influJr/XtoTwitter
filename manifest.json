@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "before-twitter",
+    "version": "0.0.1",
+    "description": "Replace the X logo with the Twitter logo",
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "js": ["replace.js"]
+        }
+    ],
+    "icons": {
+        "128": "icon.png"
+    }
+}
