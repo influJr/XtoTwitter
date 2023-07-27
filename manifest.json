@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "before-twitter",
+    "name": "XtoTwitter",
     "version": "0.0.1",
-    "description": "Replace the X logo with the Twitter logo",
+    "description": "Replace the X with the Twitter",
     "content_scripts": [
         {
             "matches": ["https://twitter.com/*"],
