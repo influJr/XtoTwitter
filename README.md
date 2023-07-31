@@ -1,5 +1,5 @@
 # 青い鳥を取り戻せ
-`chrome://extensions/`を開き、
+[`chrome://extensions/`](chrome://extensions/){:target="_blank"}で`デベロッパーモード`を有効にし、
 画面上部の`パッケージ化されていない拡張機能を読み込む`でダウンロードしたファイルを選択してください。
 
 ## 機能
