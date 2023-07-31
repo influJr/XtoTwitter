@@ -1,0 +1,25 @@
+html {
+    width: 300px;
+    height: auto;
+}
+
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: auto;
+}
+
+.svg-wrapper {
+    width:150px;
+    height:150px;
+    margin: auto;
+}
+
+.twilogo {
+    fill: rgb(144, 155, 162);
+}
+
+.twilogo.active{
+    fill: rgb(29,155,240)
+}
