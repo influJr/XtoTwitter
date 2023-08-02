@@ -1,3 +1,5 @@
 *_raw.js
 hoge.html
+fonts.txt
+*.py
 .gitignore merge=ours
