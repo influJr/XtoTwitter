@@ -3,3 +3,5 @@ hoge.html
 fonts.txt
 *.py
 .gitignore merge=ours
+.DS_Store
+```
